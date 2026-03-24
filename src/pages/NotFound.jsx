@@ -4,10 +4,10 @@ export default function NotFound() {
   return (
     <section className="page-section">
       <p className="section-tag">Erro 404</p>
-      <h2>Pagina nao encontrada</h2>
+      <h2>Página não encontrada</h2>
       <p>
-        A rota acessada nao existe. Use os links abaixo para voltar para uma
-        area valida da aplicacao.
+        A rota acessada não existe. Use os links abaixo para voltar para uma
+        área válida da aplicação.
       </p>
       <div className="page-links">
         <Link to="/">Voltar para Home</Link>

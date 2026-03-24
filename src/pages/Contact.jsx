@@ -4,11 +4,11 @@ export default function Contact() {
   return (
     <section className="page-section">
       <p className="section-tag">Contact</p>
-      <h2>Pagina de contato</h2>
+      <h2>Página de contato</h2>
       <p>
-        Em um projeto real, esta area poderia conter formulario, canais de
-        atendimento e outras informacoes. Aqui ela serve para validar a
-        navegacao entre paginas.
+        Em um projeto real, esta área poderia conter formulário, canais de
+        atendimento e outras informações. Aqui ela serve para validar a
+        navegação entre páginas.
       </p>
       <div className="page-links">
         <Link to="/">Voltar para Home</Link>

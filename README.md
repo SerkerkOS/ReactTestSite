@@ -2,12 +2,12 @@
 
 Projeto React criado para praticar:
 
-- configuracao do `react-router-dom`
-- criacao de paginas e navegacao com `Link` e `NavLink`
+- configuração do `react-router-dom`
+- criação de páginas e navegação com `Link` e `NavLink`
 - layout compartilhado com `Header`, `Sidebar` e `Footer`
 - lazy loading com `React.lazy` e `Suspense`
-- rota dinamica com parametro de URL
-- tratamento de rota invalida com pagina 404
+- rota dinâmica com parâmetro de URL
+- tratamento de rota inválida com página 404
 
 ## Como executar
 
@@ -22,7 +22,7 @@ npm run dev
 - `/about`
 - `/contact`
 - `/user/:id`
-- `*` para pagina 404
+- `*` para página 404
 
 
 # ReactTestSite
