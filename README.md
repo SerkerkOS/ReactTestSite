@@ -24,15 +24,5 @@ npm run dev
 - `/user/:id`
 - `*` para pagina 404
 
-## Publicar no GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: adiciona projeto React Router"
-git branch -M main
-git remote add origin <URL_DO_REPOSITORIO>
-git push -u origin main
-```
 
 # ReactTestSite
